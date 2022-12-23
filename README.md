@@ -6,7 +6,7 @@ Lower the number of colors in a given image.
 - file name
 - number of colors
 
-<br><h1>Original:</h1>
+<h1>Original:</h1>
 
 [<img src="https://raw.githubusercontent.com/oguh43/image-color-changer/master/exp.png">](https://raw.githubusercontent.com/oguh43/image-color-changer/master/exp.png)
 
